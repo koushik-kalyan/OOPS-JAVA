@@ -47,6 +47,6 @@ public class EnergyDemo {
         source = new WindEnergy(201, "Wind B", 6400);
         System.out.println("Wind Energy:");
         source.display();
-        System.out.println("Koushik kalyan N\n1WN25CS112");
+        System.out.println("\nKoushik kalyan N\n1WN25CS112");
     }
 }
